@@ -1,0 +1,12 @@
+# OS Cruft
+.DS_Store
+
+# R
+
+# Python
+*.py[co]
+__pycache__
+*.egg-info
+
+# Jupyter
+.ipynb_checkpoints
